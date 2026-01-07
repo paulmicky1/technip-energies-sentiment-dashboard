@@ -1,0 +1,101 @@
+ID,Date,Project_Code,Department,Location,Source,Review_Text,Country,Latitude,Longitude,AI_Predicted_Category,Severity_Score,Sentiment_Indicator,Sentiment_Label
+1,2024-01-02,PRJ-ALPHA,Engineering,Paris,Internal Survey,The new CAD software integration is seamless. Great job IT.,France,48.8566,2.3522,IT,0,1,Positive
+2,2024-01-03,PRJ-BETA,HSE,Houston,Site Report,Safety gear supply is running low in Zone 4. Critical issue.,USA,29.7604,-95.3698,HSE,5,-1,Negative
+3,2024-01-03,PRJ-GAMMA,Procurement,Kuala Lumpur,Email,Vendor response time is unacceptable. Delayed shipment again.,Malaysia,3.139,101.6869,Procurement,3,-1,Negative
+4,2024-01-04,PRJ-ALPHA,Management,Paris,Quarterly Review,Overall project timeline is on track. Good progress.,France,48.8566,2.3522,Management,0,1,Positive
+5,2024-01-05,PRJ-DELTA,Construction,Abu Dhabi,Site Report,Heat stress management plan is working effectively.,UAE,24.4539,54.3773,General,1,0,Neutral
+6,2024-01-05,PRJ-BETA,IT,Houston,Ticket,Network latency is killing our productivity today.,USA,29.7604,-95.3698,IT,4,-1,Negative
+7,2024-01-06,PRJ-EPSILON,Engineering,Rome,Meeting Notes,Calculations for the heat exchanger need review. seem off.,Italy,41.9028,12.4964,Engineering,1,0,Neutral
+8,2024-01-07,PRJ-ALPHA,HR,Paris,Employee Feedback,Love the hybrid working policy. Very flexible.,France,48.8566,2.3522,General,0,1,Positive
+9,2024-01-08,PRJ-GAMMA,Construction,Kuala Lumpur,Site Report,Heavy rain delayed the foundation pouring. Schedule impact likely.,Malaysia,3.139,101.6869,Construction,4,-1,Negative
+10,2024-01-09,PRJ-DELTA,Procurement,Abu Dhabi,Email,Successfully negotiated a 5% discount on steel pipes.,UAE,24.4539,54.3773,General,0,1,Positive
+11,2024-01-09,PRJ-BETA,Engineering,Houston,Email,Documentation is a mess. I cant find the P&IDs.,USA,29.7604,-95.3698,Engineering,3,-1,Negative
+12,2024-01-10,PRJ-EPSILON,Management,Rome,Email,Client is very happy with the preliminary design.,Italy,41.9028,12.4964,Engineering,0,1,Positive
+13,2024-01-11,PRJ-ALPHA,HSE,Paris,Audit,Zero lost time injuries this month. Excellent performance.,France,48.8566,2.3522,General,0,1,Positive
+14,2024-01-12,PRJ-GAMMA,IT,Kuala Lumpur,Ticket,VPN connection keeps dropping. Fix this ASAP.,Malaysia,3.139,101.6869,IT,1,0,Neutral
+15,2024-01-12,PRJ-DELTA,Engineering,Abu Dhabi,Internal Survey,Training for the new simulation tool was useless.,UAE,24.4539,54.3773,Engineering,3,-1,Negative
+16,2024-01-13,PRJ-BETA,Procurement,Houston,Meeting Notes,Material costs are rising faster than budget.,USA,29.7604,-95.3698,Procurement,1,0,Neutral
+17,2024-01-14,PRJ-EPSILON,HR,Rome,Employee Feedback,Cafeteria food quality has improved significantly.,Italy,41.9028,12.4964,HR,0,1,Positive
+18,2024-01-15,PRJ-ALPHA,Construction,Paris,Site Report,Subcontractor is not following safety protocols.,France,48.8566,2.3522,HSE,4,-1,Negative
+19,2024-01-16,PRJ-GAMMA,Management,Kuala Lumpur,Email,Budget variance is concerning. Need a meeting.,Malaysia,3.139,101.6869,Management,1,0,Neutral
+20,2024-01-17,PRJ-DELTA,HSE,Abu Dhabi,Site Report,Good observation of PPE compliance on site.,UAE,24.4539,54.3773,HSE,0,1,Positive
+21,2024-01-18,PRJ-BETA,Engineering,Houston,Internal Survey,Collaboration between teams is lacking. Silos everywhere.,USA,29.7604,-95.3698,HR,1,0,Neutral
+22,2024-01-19,PRJ-EPSILON,Procurement,Rome,Email,Logistics team did a fantastic job with the urgent delivery.,Italy,41.9028,12.4964,Procurement,0,1,Positive
+23,2024-01-20,PRJ-ALPHA,IT,Paris,Ticket,My laptop screen is flickering.,France,48.8566,2.3522,IT,1,0,Neutral
+24,2024-01-21,PRJ-GAMMA,Construction,Kuala Lumpur,Site Report,Crane operation went smoothly. No issues.,Malaysia,3.139,101.6869,Construction,4,-1,Negative
+25,2024-01-22,PRJ-DELTA,HR,Abu Dhabi,Employee Feedback,Not enough parking space for staff.,UAE,24.4539,54.3773,HR,1,0,Neutral
+26,2024-01-23,PRJ-BETA,Management,Houston,Quarterly Review,Revenue targets missed for Q1.,USA,29.7604,-95.3698,Management,3,-1,Negative
+27,2024-01-24,PRJ-EPSILON,HSE,Rome,Audit,Fire extinguishers are expired in the main hall.,Italy,41.9028,12.4964,HSE,4,-1,Negative
+28,2024-01-25,PRJ-ALPHA,Procurement,Paris,Email,Contract signed with the new supplier. Good terms.,France,48.8566,2.3522,Procurement,0,1,Positive
+29,2024-01-26,PRJ-GAMMA,Engineering,Kuala Lumpur,Meeting Notes,Technical specifications are vague. Need clarification.,Malaysia,3.139,101.6869,Engineering,3,-1,Negative
+30,2024-01-27,PRJ-DELTA,IT,Abu Dhabi,Ticket,Password reset process is too complicated.,UAE,24.4539,54.3773,IT,1,0,Neutral
+31,2024-01-28,PRJ-BETA,Construction,Houston,Site Report,Welding quality is top notch. Passed inspection.,USA,29.7604,-95.3698,Construction,0,1,Positive
+32,2024-01-29,PRJ-EPSILON,Management,Rome,Email,Team morale seems low. We need a team building event.,Italy,41.9028,12.4964,HR,3,-1,Negative
+33,2024-01-30,PRJ-ALPHA,HSE,Paris,Site Report,Noise levels in the workshop are too high.,France,48.8566,2.3522,General,1,0,Neutral
+34,2024-01-31,PRJ-GAMMA,HR,Kuala Lumpur,Employee Feedback,Onboarding process was smooth and welcoming.,Malaysia,3.139,101.6869,HR,0,1,Positive
+35,2024-02-01,PRJ-DELTA,Procurement,Abu Dhabi,Email,Invoice processing is taking way too long.,UAE,24.4539,54.3773,Procurement,1,0,Neutral
+36,2024-02-02,PRJ-BETA,Engineering,Houston,Internal Survey,Software licenses expired. Can't work.,USA,29.7604,-95.3698,IT,1,0,Neutral
+37,2024-02-03,PRJ-EPSILON,Construction,Rome,Site Report,Project is ahead of schedule. Great effort.,Italy,41.9028,12.4964,Construction,0,1,Positive
+38,2024-02-04,PRJ-ALPHA,IT,Paris,Ticket,Internet speed is fantastic today.,France,48.8566,2.3522,IT,0,1,Positive
+39,2024-02-05,PRJ-GAMMA,Management,Kuala Lumpur,Quarterly Review,Excellent presentation to the stakeholders.,Malaysia,3.139,101.6869,Management,0,1,Positive
+40,2024-02-06,PRJ-DELTA,HSE,Abu Dhabi,Audit,Emergency exit signs are missing.,UAE,24.4539,54.3773,General,5,-1,Negative
+41,2024-02-07,PRJ-BETA,Procurement,Houston,Email,Supplier is refusing to accept the return.,USA,29.7604,-95.3698,Procurement,1,0,Neutral
+42,2024-02-08,PRJ-EPSILON,HR,Rome,Employee Feedback,Office temperature is too cold.,Italy,41.9028,12.4964,HR,1,0,Neutral
+43,2024-02-09,PRJ-ALPHA,Engineering,Paris,Meeting Notes,Innovative solution proposed for the piping layout.,France,48.8566,2.3522,Engineering,0,1,Positive
+44,2024-02-10,PRJ-GAMMA,Construction,Kuala Lumpur,Site Report,Concrete mix ratio was incorrect. Wasted material.,Malaysia,3.139,101.6869,Construction,4,-1,Negative
+45,2024-02-11,PRJ-DELTA,IT,Abu Dhabi,Ticket,Printer is jammed again.,UAE,24.4539,54.3773,IT,1,0,Neutral
+46,2024-02-12,PRJ-BETA,Management,Houston,Email,Please expedite the approval process.,USA,29.7604,-95.3698,General,0,1,Positive
+47,2024-02-13,PRJ-EPSILON,HSE,Rome,Site Report,Excellent housekeeping on the site.,Italy,41.9028,12.4964,Construction,0,1,Positive
+48,2024-02-14,PRJ-ALPHA,Procurement,Paris,Email,Received damaged goods. Filing a claim.,France,48.8566,2.3522,General,3,-1,Negative
+49,2024-02-15,PRJ-GAMMA,Engineering,Kuala Lumpur,Internal Survey,I feel undervalued in this team.,Malaysia,3.139,101.6869,HR,1,0,Neutral
+50,2024-02-16,PRJ-DELTA,HR,Abu Dhabi,Employee Feedback,Great benefits package.,UAE,24.4539,54.3773,HR,0,1,Positive
+51,2024-02-17,PRJ-BETA,Construction,Houston,Site Report,Delay due to equipment breakdown.,USA,29.7604,-95.3698,Construction,5,-1,Negative
+52,2024-02-18,PRJ-EPSILON,IT,Rome,Ticket,System update corrupted my files.,Italy,41.9028,12.4964,IT,1,0,Neutral
+53,2024-02-19,PRJ-ALPHA,Management,Paris,Quarterly Review,Profits are up by 10%.,France,48.8566,2.3522,Management,0,1,Positive
+54,2024-02-20,PRJ-GAMMA,HSE,Kuala Lumpur,Audit,Spill containment kit deployed correctly.,Malaysia,3.139,101.6869,HSE,1,0,Neutral
+55,2024-02-21,PRJ-DELTA,Procurement,Abu Dhabi,Email,Best price on the market. Good find.,UAE,24.4539,54.3773,Procurement,0,1,Positive
+56,2024-02-22,PRJ-BETA,Engineering,Houston,Meeting Notes,Design review went poorly. Too many errors.,USA,29.7604,-95.3698,Engineering,3,-1,Negative
+57,2024-02-23,PRJ-EPSILON,HR,Rome,Employee Feedback,Manager is very supportive.,Italy,41.9028,12.4964,HR,0,1,Positive
+58,2024-02-24,PRJ-ALPHA,Construction,Paris,Site Report,Site access road is blocked.,France,48.8566,2.3522,Construction,4,-1,Negative
+59,2024-02-25,PRJ-GAMMA,IT,Kuala Lumpur,Ticket,Wifi is spotty in the conference room.,Malaysia,3.139,101.6869,IT,1,0,Neutral
+60,2024-02-26,PRJ-DELTA,Management,Abu Dhabi,Email,Client threatened to cancel the contract.,UAE,24.4539,54.3773,Procurement,3,-1,Negative
+61,2024-02-27,PRJ-BETA,HSE,Houston,Site Report,Workers are not wearing safety glasses.,USA,29.7604,-95.3698,HSE,4,-1,Negative
+62,2024-02-28,PRJ-EPSILON,Procurement,Rome,Email,Shipping documents are missing.,Italy,41.9028,12.4964,General,3,-1,Negative
+63,2024-02-29,PRJ-ALPHA,Engineering,Paris,Internal Survey,Workload is manageable and fair.,France,48.8566,2.3522,General,0,1,Positive
+64,2024-03-01,PRJ-GAMMA,HR,Kuala Lumpur,Employee Feedback,Communication from leadership is unclear.,Malaysia,3.139,101.6869,General,3,-1,Negative
+65,2024-03-02,PRJ-DELTA,Construction,Abu Dhabi,Site Report,Milestone achieved ahead of time.,UAE,24.4539,54.3773,Management,1,0,Neutral
+66,2024-03-03,PRJ-BETA,IT,Houston,Ticket,New software is intuitive and easy to use.,USA,29.7604,-95.3698,IT,0,1,Positive
+67,2024-03-04,PRJ-EPSILON,Management,Rome,Quarterly Review,Cost overrun on the electrical package.,Italy,41.9028,12.4964,Procurement,1,0,Neutral
+68,2024-03-05,PRJ-ALPHA,HSE,Paris,Audit,Documentation for hazardous materials is perfect.,France,48.8566,2.3522,HSE,0,1,Positive
+69,2024-03-06,PRJ-GAMMA,Procurement,Kuala Lumpur,Email,Wrong items delivered.,Malaysia,3.139,101.6869,General,3,-1,Negative
+70,2024-03-07,PRJ-DELTA,Engineering,Abu Dhabi,Meeting Notes,Structural integrity confirmed.,UAE,24.4539,54.3773,Engineering,0,1,Positive
+71,2024-03-08,PRJ-BETA,HR,Houston,Employee Feedback,I enjoy the team outings.,USA,29.7604,-95.3698,HR,0,1,Positive
+72,2024-03-09,PRJ-EPSILON,Construction,Rome,Site Report,Lack of skilled labor is slowing us down.,Italy,41.9028,12.4964,General,5,-1,Negative
+73,2024-03-10,PRJ-ALPHA,IT,Paris,Ticket,Server is down. Critical emergency.,France,48.8566,2.3522,IT,5,-1,Negative
+74,2024-03-11,PRJ-GAMMA,Management,Kuala Lumpur,Email,Great leadership during the crisis.,Malaysia,3.139,101.6869,General,1,0,Neutral
+75,2024-03-12,PRJ-DELTA,HSE,Abu Dhabi,Site Report,Near miss incident reported near the scaffolding.,UAE,24.4539,54.3773,Construction,4,-1,Negative
+76,2024-03-13,PRJ-BETA,Procurement,Houston,Email,Purchase order was rejected.,USA,29.7604,-95.3698,Procurement,5,-1,Negative
+77,2024-03-14,PRJ-EPSILON,Engineering,Rome,Internal Survey,Tools are outdated.,Italy,41.9028,12.4964,General,1,0,Neutral
+78,2024-03-15,PRJ-ALPHA,HR,Paris,Employee Feedback,Salary is competitive.,France,48.8566,2.3522,HR,0,1,Positive
+79,2024-03-16,PRJ-GAMMA,Construction,Kuala Lumpur,Site Report,Quality of work is substandard.,Malaysia,3.139,101.6869,General,1,0,Neutral
+80,2024-03-17,PRJ-DELTA,IT,Abu Dhabi,Ticket,Fast resolution to my problem. Thanks.,UAE,24.4539,54.3773,General,0,1,Positive
+81,2024-03-18,PRJ-BETA,Management,Houston,Quarterly Review,Client satisfaction score is 9/10.,USA,29.7604,-95.3698,Management,0,1,Positive
+82,2024-03-19,PRJ-EPSILON,HSE,Rome,Audit,Safety culture needs improvement.,Italy,41.9028,12.4964,HSE,0,1,Positive
+83,2024-03-20,PRJ-ALPHA,Procurement,Paris,Email,Long lead items ordered on time.,France,48.8566,2.3522,General,1,0,Neutral
+84,2024-03-21,PRJ-GAMMA,Engineering,Kuala Lumpur,Meeting Notes,The new design looks solid.,Malaysia,3.139,101.6869,Engineering,0,1,Positive
+85,2024-03-22,PRJ-DELTA,HR,Abu Dhabi,Employee Feedback,Too much micromanagement.,UAE,24.4539,54.3773,General,1,0,Neutral
+86,2024-03-23,PRJ-BETA,Construction,Houston,Site Report,Weather conditions halted work.,USA,29.7604,-95.3698,General,1,0,Neutral
+87,2024-03-24,PRJ-EPSILON,IT,Rome,Ticket,Spam emails are flooding my inbox.,Italy,41.9028,12.4964,General,3,-1,Negative
+88,2024-03-25,PRJ-ALPHA,Management,Paris,Email,Please revise the budget proposal.,France,48.8566,2.3522,Management,0,1,Positive
+89,2024-03-26,PRJ-GAMMA,HSE,Kuala Lumpur,Site Report,Good usage of lockout/tagout procedures.,Malaysia,3.139,101.6869,General,0,1,Positive
+90,2024-03-27,PRJ-DELTA,Procurement,Abu Dhabi,Email,Supplier is unresponsive.,UAE,24.4539,54.3773,Procurement,1,0,Neutral
+91,2024-03-28,PRJ-BETA,Engineering,Houston,Internal Survey,Proud to work on this project.,USA,29.7604,-95.3698,General,0,1,Positive
+92,2024-03-29,PRJ-EPSILON,HR,Rome,Employee Feedback,Gym facilities are great.,Italy,41.9028,12.4964,HR,0,1,Positive
+93,2024-03-30,PRJ-ALPHA,Construction,Paris,Site Report,Scaffolding is unstable. Dangerous.,France,48.8566,2.3522,Construction,5,-1,Negative
+94,2024-03-31,PRJ-GAMMA,IT,Kuala Lumpur,Ticket,Software installation failed.,Malaysia,3.139,101.6869,IT,5,-1,Negative
+95,2024-04-01,PRJ-DELTA,Management,Abu Dhabi,Quarterly Review,Strategic goals met.,UAE,24.4539,54.3773,Management,1,0,Neutral
+96,2024-04-02,PRJ-BETA,HSE,Houston,Audit,Fire alarm system is malfunctioning.,USA,29.7604,-95.3698,HSE,5,-1,Negative
+97,2024-04-03,PRJ-EPSILON,Procurement,Rome,Email,Excellent coordination with the vendor.,Italy,41.9028,12.4964,Procurement,0,1,Positive
+98,2024-04-04,PRJ-ALPHA,Engineering,Paris,Meeting Notes,Calculations verified and correct.,France,48.8566,2.3522,Engineering,1,0,Neutral
+99,2024-04-05,PRJ-GAMMA,HR,Kuala Lumpur,Employee Feedback,Promotion process is opaque.,Malaysia,3.139,101.6869,HR,1,0,Neutral
+100,2024-04-06,PRJ-DELTA,Construction,Abu Dhabi,Site Report,Completion certificate signed. Success.,UAE,24.4539,54.3773,General,0,1,Positive
