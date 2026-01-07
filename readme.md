@@ -2,8 +2,9 @@
 
 An end-to-end data analytics solution that transforms unstructured employee feedback into actionable business intelligence. This project uses **Python (NLTK)** for Natural Language Processing and **Power BI** for interactive visualization.
 
-![Dashboard Preview](path-to-your-screenshot.png) 
-*(Tip: Upload a screenshot of your "Executive Summary" page here)*
+![Dashboard Preview]
+screenshots/Ecexutive_summary.png
+
 
 ## 🚀 Project Overview
 
@@ -79,3 +80,4 @@ The Power BI report consists of three strategic views:
 
 ---
 *Disclaimer: This project uses simulated data for demonstration purposes.*
+
