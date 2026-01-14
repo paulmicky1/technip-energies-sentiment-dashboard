@@ -81,3 +81,16 @@ The Power BI report consists of three strategic views:
 ---
 *Disclaimer: This project uses simulated data for demonstration purposes.*
 
+
+## Future Scalability
+
+Enterprise Deployment Strategy: While this project uses local CSVs for prototyping, a production deployment at enterprise scale would follow this architecture:
+
+Ingestion: Raw feedback is ingested from internal ticketing systems into Azure Data Lake.
+
+Processing: The Python/NLTK logic is deployed as a Databricks (PySpark) job to handle millions of records.
+
+Storage: Processed Sentiment and Severity scores are loaded into Azure Synapse Analytics.
+
+Visualization: Power BI connects via Direct Query to Synapse for real-time reporting.
+
